@@ -1,0 +1,42 @@
+{
+    "1": {
+        "numero": 1,
+        "filme": "Cortinas",
+        "genero": "Futebol",
+        "idade_minima": "10",
+        "ingressos_disponiveis": 0,
+        "data_saida": "18/05/2027"
+    },
+    "2": {
+        "numero": 2,
+        "filme": "Filme de Ação",
+        "genero": "Drama",
+        "idade_minima": "18",
+        "ingressos_disponiveis": 50,
+        "data_saida": "19/12/2026"
+    },
+    "3": {
+        "numero": 3,
+        "filme": "Nenhum filme",
+        "genero": "-",
+        "idade_minima": "-",
+        "ingressos_disponiveis": 50,
+        "data_saida": "-"
+    },
+    "4": {
+        "numero": 4,
+        "filme": "Nenhum filme",
+        "genero": "-",
+        "idade_minima": "-",
+        "ingressos_disponiveis": 50,
+        "data_saida": "-"
+    },
+    "5": {
+        "numero": 5,
+        "filme": "Nenhum filme",
+        "genero": "-",
+        "idade_minima": "-",
+        "ingressos_disponiveis": 50,
+        "data_saida": "-"
+    }
+}
